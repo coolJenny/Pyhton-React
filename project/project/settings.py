@@ -27,7 +27,7 @@ SECRET_KEY = 'st77j!t$6%0$5wk-7b4i(meql4nrmwgc98d582m#%-0*e(zof2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['python-react.herokuapp.com', '127.0.0.1:8000']
+ALLOWED_HOSTS = ['python-react.herokuapp.com', '127.0.0.1:8000']
 
 
 # Application definition
